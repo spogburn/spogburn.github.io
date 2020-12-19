@@ -24,7 +24,7 @@ github_username:  jekyll
 
 # Build settings
 markdown: GFM
-theme: clarkhacks/Minimal-Text
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
