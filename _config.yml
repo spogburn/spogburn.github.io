@@ -23,7 +23,7 @@ github_username:  spogburn
 
 # Build settings
 markdown: GFM
-theme: jekyll-theme-minimal
+remote_theme: clarkhacks/Minimal-Text
 plugins:
   - jekyll-feed
 
