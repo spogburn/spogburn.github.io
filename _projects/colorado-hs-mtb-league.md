@@ -12,6 +12,8 @@ Coaches and parents whose children are members of the Colorado HS MTB League.
 - Parents and riders use the league website to access race information and results and access and fill out necessary forms.
 
 ![Colorado High School MTB League Site]({{ '/images/COHSMTBSite.png' | absolute_url }}){: .align-center}
+<figcaption>Original League Website</figcaption>
+<br/>
 
 ### Role
 I was part of a team of UX Researchers who each donated ~20 hours of time for a research project improving the League's information architecture on their primary website. I conducted preliminary interviews and ran and analyzed the card sorting activity. I also wrote and presented on the card sort to the product owner, the head of the Colorado High School MTB League.
@@ -25,7 +27,8 @@ I conducted an initial interview with the League's director and website designer
 Other team members conducted preliminary structured interviews with users to learn more about how they typically used the site and what their main goals were when using the site.
 
 ![Interview Synthesis Framework]({{ '/images/SynthesisFramework.png' | absolute_url }}){: .align-center}
-
+<figcaption>Framework for analyzing initial interviews</figcaption>
+<br/>
 These interviews confirmed that users were having difficulty accessing information, that the site was challenging to use on mobile, and that users most often were looking for information related to upcoming races.
 
 #### II. Survey and Card Sort Activity
@@ -45,17 +48,17 @@ We included several survey questions along with the card sort to gather informat
 
 Based on these results, we made the following recommendations:
 
-- Add a race day menu to your top level navigation to enable users to quickly access this content. The primary use case for the site is accessing race information, so this solves the problem of users being unable to find this information.
-
-- Update your main menu structure to match the recommendations from the card sort. Coaches and parents currently affiliated with the organization find it difficult to navigate the website because there is a lot of content and it is not organized in a way that fits their mental models.
+I. Update your main menu structure to match the recommendations from the card sort. Coaches and parents currently affiliated with the organization find it difficult to navigate the website because there is a lot of content and it is not organized in a way that fits their mental models.
 
 ![Menu Recommendation]({{ '/images/RevisedMenuRecommendation.png' | absolute_url }}){: .align-center}
+<figcaption>Recommended Top Level Menu structure</figcaption>
+<br/>
 
-- Reformat visuals so that they are smaller but will drive user interaction on the website. Users have to scroll for too long to find vital information on the site.
+II. Add a race day menu to your top level navigation to enable users to quickly access this content. The primary use case for the site is accessing race information, so this solves the problem of users being unable to find this information.
 
-- Prioritize content for specific channels and consider removing some website content that is infrequently accessed or could be shared via other channels such as the newsletter or social media. Use Google Analytics to support in identifying infrequently accessed content.
+III. Reformat visuals so that they are smaller but will drive user interaction on the website. Users have to scroll for too long to find vital information on the site.
 
-#### Conclusion
+IV. Prioritize content for specific channels and consider removing some website content that is infrequently accessed or could be shared via other channels such as the newsletter or social media. Use Google Analytics to support in identifying infrequently accessed content.
 
 
 
