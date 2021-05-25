@@ -1,5 +1,5 @@
 ---
-title: "Colorado High School MTB League"
+title: "Colorado HS MTB League"
 ---
 # Case Study: Information Architecture
 
