@@ -3,10 +3,10 @@ title: "Colorado HS MTB League"
 ---
 # Case Study: Information Architecture
 
-### Problem statement
+## Problem statement
 Coaches, parents and riders were having a hard time finding the information they needed on the Colorado HS MTB League website
 
-### Users
+## Users
 Coaches and parents whose children are members of the Colorado HS MTB League.
 - Coaches use the league website for resources, forms and training materials.
 - Parents and riders use the league website to access race information and results and access and fill out necessary forms.
@@ -15,13 +15,13 @@ Coaches and parents whose children are members of the Colorado HS MTB League.
 <figcaption>Original League Website</figcaption>
 <br/>
 
-### Role
+## Role
 I was part of a team of UX Researchers who each donated ~20 hours of time for a research project improving the League's information architecture on their primary website. I conducted preliminary interviews and ran and analyzed the card sorting activity. I also wrote and presented on the card sort to the product owner, the head of the Colorado High School MTB League.
 
-### Process
+## Process
 The research effort took place over three stages.
 
-#### I. Initial interviews to develop hypothesis
+### I. Initial interviews to develop hypothesis
 I conducted an initial interview with the League's director and website designer. Through this we determined the primary users of the site were coaches, parents and riders. The director and designer believed the primary issue for users was finding information they needed to successfully participate in the league.
 
 Other team members conducted preliminary structured interviews with users to learn more about how they typically used the site and what their main goals were when using the site.
@@ -31,14 +31,14 @@ Other team members conducted preliminary structured interviews with users to lea
 <br/>
 These interviews confirmed that users were having difficulty accessing information, that the site was challenging to use on mobile, and that users most often were looking for information related to upcoming races.
 
-#### II. Survey and Card Sort Activity
+### II. Survey and Card Sort Activity
 Based on the fact that users struggle to find information, we decided to conduct a card sort. This would allow us to get user input on how best to group and categorize the diverse information on the site.
 
 We analyzed the existing website and created a list of 31 primary information buckets based on existing menu options and additional site content.
 
 We initially planned to do an open card sort, but the product owner preferred a hybrid option. We conducted a hybrid card sort with 31 options. This was sent to 141 coaches, parents and riders on the League's email list. Of this group, 83 completed the exercise and survey questions.
 
-#### III. Data Analysis & Report
+### III. Data Analysis & Report
 
 The card sort results were more mixed than we desired. We interpreted this as stemming from the fact that the site has a lot of disparate information, so users had a hard time categorizing some of it.
 
