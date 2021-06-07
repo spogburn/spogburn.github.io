@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![SPO]({{ '/images/spo_square_pink.jpg' | absolute_url }}){: .align-left .author-avatar}
+Hi! I'm Stephanie. I love people, technology, and words.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+User experience research is my passion. I love listening to people and relying on their experiences, thoughts and desires to make applications that meet their needs.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I bring my background in anthropology, web development, and journalism to the work I do as a UX researcher.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I am trained in a variety of styles of qualitative research, have deep experience working on highly technical product teams, and maintain a curiousity about people and their experiences that helps me bring a fresh approach to every research project.
