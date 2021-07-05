@@ -248,11 +248,11 @@ body { border-top: solid 0.25em; }
 blockquote footer, q footer { font-size: 80%; font-style: normal; }
 blockquote footer::before, q footer::before { padding-right: 0.25rem; content: "\2014"; }
 
-code, kbd, samp, pre { font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace; }
+code, kbd, samp, pre { font-family: Menlo, Consolas, Monaco, "Courier New", Courier Prime, monospace; }
 
 kbd { display: inline-block; margin: 0 0.125em; padding: 0.125em 0.5em; color: #000; border: 1px solid #cccccc; border-radius: 3px; background-color: #f7f7f7; font-size: 85%; text-shadow: 0 1px 0 #fff; -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), inset 0 0 0 2px #fff; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25), inset 0 0 0 2px #fff; }
 
-h1, h2, h3, h4, h5, h6 { font-family: "Raleway", sans-serif; font-weight: 200; text-rendering: optimizeLegibility; /* enable common ligatures and kerning */ }
+h1, h2, h3, h4, h5, h6 { font-family: "Courier Prime", serif; font-weight: 200; text-rendering: optimizeLegibility; /* enable common ligatures and kerning */ }
 
 h1 { font-size: 20.7385152499px; }
 @media screen and (min-width: 320px) { h1 { font-size: calc(20.7385152499px + 12.4390847501 * ((100vw - 320px) / 960)); } }
@@ -323,13 +323,13 @@ tr, td, th { vertical-align: middle; }
 .masthead { clear: both; margin-bottom: 3em; text-align: center; }
 .masthead::after { clear: both; content: ""; display: table; }
 
-.site-title { margin: 0.5em 0 0; padding: 0; font-family: 'Raleway'; }
+.site-title { margin: 0.5em 0 0; padding: 0; font-family: 'Courier Prime'; }
 .site-title { font-size: 19.436284208px; }
 @media screen and (min-width: 320px) { .site-title { font-size: calc(19.436284208px + 8.211715792 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { .site-title { font-size: 27.648px; } }
 .site-title a { text-decoration: none; }
 
-.site-description { margin-bottom: 1em; font-family: "Raleway", serif; font-weight: 400; }
+.site-description { margin-bottom: 1em; font-family: "Courier Prime", serif; font-weight: 400; }
 .site-description { font-size: 16px; }
 @media screen and (min-width: 320px) { .site-description { font-size: calc(16px + 0 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { .site-description { font-size: 16px; } }
@@ -392,7 +392,7 @@ tr, td, th { vertical-align: middle; }
 /* ========================================================================== Page ========================================================================== */
 .page-wrapper { margin: 0 auto; padding-left: 1em; padding-right: 1em; max-width: 1024px; }
 
-.page-title { margin-bottom: 0.5em; font-family: "Raleway", serif; font-weight: 200; letter-spacing: -2px; }
+.page-title { margin-bottom: 0.5em; font-family: "Courier Prime", serif; font-weight: 200; letter-spacing: -2px; }
 .page-title { font-size: 48px; }
 @media screen and (min-width: 320px) { .page-title { font-size: calc(48px + 12 * ((100vw - 320px) / 960)); } }
 @media screen and (min-width: 1280px) { .page-title { font-size: 60px; } }
@@ -408,7 +408,7 @@ tr, td, th { vertical-align: middle; }
 
 .page-sidebar { font-size: 0.75em; }
 @media (min-width: 64em) { .page-sidebar { text-align: center; } }
-.page-sidebar .page-date, .page-sidebar .read-time { font-family: "Raleway", serif; white-space: nowrap; }
+.page-sidebar .page-date, .page-sidebar .read-time { font-family: "Courier Prime", serif; white-space: nowrap; }
 @media (min-width: 64em) { .page-sidebar .read-time { display: block; } }
 .page-sidebar .read-time + .page-date::before { content: "\2022"; padding: 0 0.5em; }
 @media (min-width: 64em) { .page-sidebar .read-time + .page-date::before { content: ""; padding: 0; } }
@@ -440,7 +440,7 @@ tr, td, th { vertical-align: middle; }
 
 .page-pagination-label { margin: 0; padding: 0; font-size: 1em; }
 
-.page-pagination-title { margin: 0; padding: 0; font-family: "Raleway", serif; font-size: 0.9em; }
+.page-pagination-title { margin: 0; padding: 0; font-family: "Courier Prime", serif; font-size: 0.9em; }
 
 /* Wide Layout Overrides ========================================================================== */
 .layout--home .page-wrapper, .layout--posts .page-wrapper, .layout--categories .page-wrapper, .layout--tags .page-wrapper, .layout--category .page-wrapper, .layout--tag .page-wrapper, .layout--collection .page-wrapper, .layout--search .page-wrapper { max-width: 768px; }
@@ -479,13 +479,13 @@ tr, td, th { vertical-align: middle; }
 
 .entry-header { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }
 
-.entry-title { margin-bottom: 0.5rem; font-family: "Raleway", serif; font-weight: normal; letter-spacing: -1px; word-wrap: break-word; /* break long words that could overflow */ }
+.entry-title { margin-bottom: 0.5rem; font-family: "Courier Prime", serif; font-weight: normal; letter-spacing: -1px; word-wrap: break-word; /* break long words that could overflow */ }
 .entry-title a { text-decoration: none; }
 .entry-title a[rel="bookmark"]::before { content: ''; position: absolute; left: 0; top: 0; right: 0; bottom: 0; }
 
 .entry-image { -webkit-box-ordinal-group: 0; -ms-flex-order: -1; order: -1; width: 100%; margin-bottom: 0.5rem; }
 
-.entry-meta .entry-date, .entry-meta .read-time { font-family: "Raleway", serif; white-space: nowrap; }
+.entry-meta .entry-date, .entry-meta .read-time { font-family: "Courier Prime", serif; white-space: nowrap; }
 .entry-meta .read-time + .entry-date::before { content: "\2022"; padding: 0 0.5em; }
 
 .entry-excerpt a, .u-bookmark-of { position: relative; z-index: 10; }
@@ -561,7 +561,7 @@ tr, td, th { vertical-align: middle; }
 code.highlighter-rouge { margin: 0; padding: 0.2em 0.4em; font-size: 85%; border-radius: 3px; }
 
 /* Multi-line code blocks */
-div.highlighter-rouge, figure.highlight { position: relative; margin-bottom: 1em; font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace; line-height: 1.8; }
+div.highlighter-rouge, figure.highlight { position: relative; margin-bottom: 1em; font-family: Menlo, Consolas, Monaco, "Courier New", Courier Prime, monospace; line-height: 1.8; }
 div.highlighter-rouge > pre, div.highlighter-rouge pre.highlight, figure.highlight > pre, figure.highlight pre.highlight { margin: 0; padding: 1em; }
 
 .highlight table { margin-bottom: 0; font-size: 1em; border: 0; }

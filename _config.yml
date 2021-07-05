@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stephanieogburn.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  spogburn
+logo: "/images/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -38,7 +39,7 @@ collections:
 google_fonts:
   - name: "Roboto"
     weights: "300,400,400i,700,700i"
-  - name: "Raleway"
+  - name: "Courier Prime"
     weights: "200,400,400i,700,700i"
 
 # Front Matter Defaults
