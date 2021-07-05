@@ -4,6 +4,6 @@
 
 layout: post
 ---
-This site is just getting started and I'll be filling it in with work from various projects over the next several months.
+I'm Stephanie. I love people and making technology work better for them. To learn more about my work check out the [projects](/projects) page.
 
-In the meantime, feel free to connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a> to learn more about me!
+You can also connect with me on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>. Nice to meet you!
