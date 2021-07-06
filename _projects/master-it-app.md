@@ -5,6 +5,7 @@ title: "Master It Flashcard App"
 
 ## Problem statement
 Conduct user research across the entire product life cycle to design a flashcard learning application.
+([Check out the clickable prototype here](https://marvelapp.com/prototype/584070i))
 
 ## Users
 Healthcare professionals learning medical terminology in their native language. Future user groups could be anyone trying to learn vocabulary in a new profession, such as architecture, building inspection, IT, etc.
@@ -57,7 +58,7 @@ I created two task flows and two user flows based on two features I planned to d
 
 ### V. Wireframe the app with two main features
 
-I created wireframes for the app with the two main features I planned to develop. I uploaded these into [Marvel](https://marvelapp.com/prototype/584070i/screen/69432384) so that I could add clickable areas and conduct user testing.
+I created wireframes for the app with the two main features I planned to develop. I created a [clickable prototype](https://marvelapp.com/prototype/584070i) for usability testing.
 
 ![Wireframes]({{ '/images/Vocab_App_Wireframes.png' | absolute_url }}){: .align-center}
 <figcaption>A sample of wireframes from the app</figcaption>
