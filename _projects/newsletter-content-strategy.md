@@ -12,7 +12,7 @@ An agency wanted to start a weekly email newsletter and develop a style that eng
 - Technologists interested in business culture.
 
 ## Role
-I developed the content strategy for this project.
+I developed the content strategy for this project. I write about 70 percent of the content for this project.
 
 ## Process
 The research effort took place over three stages.
@@ -43,3 +43,7 @@ After conducting research, the strategy I decided on was to have the newsletter 
 - Is positive without bragging.
 - Often discusses Hard Things or situations that helped the agency grow.
 - Partners with a local business development consultant to include weekly journaling prompts, encouraging reflection and growth.
+
+### IV. Implementation
+
+I implemented the content strategy in early 2021. Viewers can subscribe and see past issues [here](https://www.getrevue.co/profile/radial). The content that is signed by Stephanie is the content I write.
