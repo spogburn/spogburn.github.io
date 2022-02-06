@@ -4,12 +4,12 @@ title: "Newsletter Content Strategy"
 # Developing a Company Voice and Style
 
 ## Problem statement
-An agency wanted to start a weekly email newsletter and develop a style that engages clients and customers. This agency works in the tech space building web and mobile applications and desktop software. I developed the content strategy and do much of the writing and editing for this product.
+My company wanted to start a weekly email newsletter and develop a style that engages clients and customers. We work in the tech space building web and mobile applications and desktop software. I developed the content strategy and do much of the writing and editing for this product.
 
 ## Highlights
 
 Here are some of my favorite newsletters to date:
-- [What is Professionalism?](https://www.getrevue.co/profile/radial/issues/what-is-professionalism-597843)
+- [Avoiding Tutorial Hell](https://www.getrevue.co/profile/radial/issues/avoiding-tutorial-hell-974804)
 - [Solving Problems](https://www.getrevue.co/profile/radial/issues/solving-problems-740112)
 - [The Comfort of Consistency](https://www.getrevue.co/profile/radial/issues/the-comfort-of-consistency-571600)
 
