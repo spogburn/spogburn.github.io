@@ -11,10 +11,6 @@ Whether I'm asking mountain bikers how they learn about upcoming races or workin
 
 I love doing this through UX writing and crafting the style and substance of the words we all see when using an application.
 
-I also love conducting user research -- listening to people and relying on their experiences, thoughts and desires to make applications that meet their needs.
+My second passion is conducting user research -- listening to people and relying on their experiences, thoughts and desires to make applications that meet their needs.
 
-I currently write and edit a weekly newsletter (<a href="https://www.getrevue.co/profile/radial" target="_blank">subscribe here</a>) about how we are working to build a better tech culture at company where I work, Radial Development Group.
-
-Check out the [projects](/projects) page to learn more about my work.
-
-Download my <a href="/images/OgburnResumeUX2021.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!
+Download my <a href="/images/OgburnResumeUXWriting.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!
