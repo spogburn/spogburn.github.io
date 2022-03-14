@@ -1,5 +1,5 @@
 ---
-title: "UX Research End-to-End"
+title: "UX Research"
 ---
 # UX Research, Wireframing and User Testing
 
