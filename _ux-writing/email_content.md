@@ -42,7 +42,7 @@ Learn all the ways you can use Handshake and ask questions at our support site. 
 
 **CTA:**
 
-Get started
+Get Started
 
 ### Email for a customer who just cancelled their Handshake account
 
