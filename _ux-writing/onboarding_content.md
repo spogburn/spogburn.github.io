@@ -1,5 +1,5 @@
 ---
-title: "Onboarding Copy"
+title: "Onboarding Content"
 ---
 
 ## Problem statement

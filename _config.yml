@@ -32,7 +32,7 @@ plugins:
 
 # Collections
 collections:
-  microcopy:
+  ux-writing:
     output: true
     permalink: /:collection/:path/
 
@@ -53,8 +53,8 @@ defaults:
       layout: post
   # Microcopy defaults
   - scope:
-      path: "_microcopy"
-      type: microcopy
+      path: "_ux-writing"
+      type: ux-writing
     values:
       layout: page
 

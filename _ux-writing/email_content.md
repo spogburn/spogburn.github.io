@@ -1,5 +1,5 @@
 ---
-title: "Email Copy"
+title: "Email Content"
 ---
 
 ## Problem statement
