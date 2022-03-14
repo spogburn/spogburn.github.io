@@ -3,7 +3,7 @@ title: "Email Content"
 ---
 
 ## Problem statement
-Develop new user and departing user emails for an app called Handshake.
+The Handshake app needed new email copy for onboarding and departure emails so users knew how to get started and their account status after departing.
 
 ## Users
 - Freelancers

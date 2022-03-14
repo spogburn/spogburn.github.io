@@ -3,7 +3,7 @@ title: "Voice and Vocabulary"
 ---
 
 ## Problem statement
-Develop a voice and select terminology and vocabulary assets for an app called Handshake.
+The Handshake app needed standardized terms and consistent vocabulary so as not to confuse users.
 
 ## Users
 - Freelancers

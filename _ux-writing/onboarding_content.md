@@ -3,7 +3,7 @@ title: "Onboarding Content"
 ---
 
 ## Problem statement
-Develop onboarding assets for an app called Handshake.
+The Handshake app's landing page copy needed to be streamlined for a clearer user experience.
 
 ## Users
 - Freelancers
