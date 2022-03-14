@@ -32,7 +32,7 @@ plugins:
 
 # Collections
 collections:
-  projects:
+  microcopy:
     output: true
     permalink: /:collection/:path/
 
@@ -51,10 +51,10 @@ defaults:
       type: posts
     values:
       layout: post
-  # Recipe defaults
+  # Microcopy defaults
   - scope:
-      path: "_projects"
-      type: projects
+      path: "_microcopy"
+      type: microcopy
     values:
       layout: page
 
