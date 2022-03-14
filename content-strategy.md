@@ -1,5 +1,5 @@
 ---
-title: "Newsletter Content Strategy"
+title: "Content Strategy"
 ---
 # Developing a Company Voice and Style
 
