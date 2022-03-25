@@ -4,11 +4,14 @@ title: "Content Strategy"
 # Developing a Company Voice and Style
 
 ## Problem statement
-My company wanted to start a weekly email newsletter and develop a style that engages clients and customers. We're an agency building web and mobile applications and desktop software for a range of clients. I developed the content strategy and do much of the writing and editing for this product.
+A company I worked for wanted to start a weekly email newsletter to engage clients and customers. Together with invested stakeholders, I developed the content strategy and initially created much of the content for the newsletter.
+
+## Impact
+The weekly newsletter averaged a 30-40% open rate with very little dropoff over the first year of its existence.
 
 ## Highlights
 
-Here are some of my favorite newsletters to date:
+Some of my favorite newsletters to date:
 - [Avoiding Tutorial Hell](https://www.getrevue.co/profile/radial/issues/avoiding-tutorial-hell-974804)
 - [Solving Problems](https://www.getrevue.co/profile/radial/issues/solving-problems-740112)
 - [The Comfort of Consistency](https://www.getrevue.co/profile/radial/issues/the-comfort-of-consistency-571600)
@@ -19,7 +22,7 @@ Here are some of my favorite newsletters to date:
 - Individuals in the business community interested in the agency workspace.
 
 ## Role
-I developed the content strategy for this project. I write about 70 percent of the content for this project.
+I developed the content strategy for this project. In its first year, I wrote about 80% of the content for this project.
 
 ## Process
 The research effort took place over three stages.
@@ -41,7 +44,7 @@ I used this analysis to develop a structure for the email newsletter. I decided 
 
 ### III. Style Guide
 
-After conducting research, the strategy we decided on was to have the newsletter feel like a small weekly conversation from the agency that subscribers are "in" on. We also wanted subscribers to know that the agency was interested in their growth as well as its own. With input from my co-editor, I created the following style guide:
+After conducting research, the strategy we decided on was to have the newsletter feel like a small weekly conversation from the agency that subscribers are "in" on. We also wanted subscribers to know that the agency was interested in their growth as well as its own. With input from other stakeholders, I created the following style guide:
 
 - Written in a letter-type format, with a salutation of "Hi Friends" or something similar.
 - Signed by the author for that week.
@@ -53,4 +56,4 @@ After conducting research, the strategy we decided on was to have the newsletter
 
 ### IV. Implementation
 
-I implemented the content strategy in early 2021 and have been publishing the newsletter weekly since. The content that is signed by Stephanie is the content I write.
+I implemented a weekly content strategy process that involved sessions to brainstorm new topics, a writing session, an editing session, and a review process to catch any issues and get feedback. My writing partner and I also crafted evergreen newsletters and documented a replicable publishing process to handle unexpected absences.
