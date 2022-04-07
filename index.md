@@ -13,4 +13,4 @@ I love doing this through UX writing and crafting the style and substance of the
 
 My second passion is conducting user research -- listening to people and relying on their experiences, thoughts and desires to make applications that meet their needs.
 
-Download my <a href="/images/OgburnResumeUXWriting.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!
+Download my <a href="/images/OgburnResumeContentStrategy.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!
