@@ -54,7 +54,7 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
 
   <div class="scenario-details">
 
-  **Challenge:** Write a message from the airline app notifying them of the cancellation and what they need to do next.
+  **Challenge:** Write a title and meta description for a website that sells subscription contact lenses delivered to a user every 30 days—convince them to try it.
 
   <h3>Constraints</h3>
 
@@ -147,3 +147,5 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
   The character constraints were tight and it was hard to not try and give the user an option to learn more. Ultimately I decided to make the headline very clear about what was currently happening and known, and the body discuss the potential future issues. This seemed to be the best way to architect the information, leading with the present known danger, and placing changing information lower down.
   </div>
 </div>
+
+
