@@ -13,7 +13,7 @@ The weekly newsletter averaged a 30-40% open rate with very little dropoff over 
 
 Some of my favorite newsletters to date:
 - [I'm Not a Nerd](https://www.getrevue.co/profile/radial/issues/i-m-not-a-nerd-1041207)
-- [A Swim or Swim Approach](https://www.getrevue.co/profile/radial/issues/a-swim-or-swim-approach-1017677)
+- [Test-driven Development (no, really)](https://www.getrevue.co/profile/radial/issues/test-driven-development-no-really-711868)
 - [Workmanship](https://www.getrevue.co/profile/radial/issues/workmanship-873043)
 
 ## Users
@@ -22,7 +22,7 @@ Some of my favorite newsletters to date:
 - Individuals in the business community interested in the agency workspace.
 
 ## Role
-I developed the content strategy for this project. In its first year, I wrote about 80% of the content for this project.
+I developed the content strategy for this project. In its first year, I wrote about 75% of the content for this project.
 
 ## Process
 The research effort took place over three stages.
@@ -56,4 +56,6 @@ After conducting research, the strategy we decided on was to have the newsletter
 
 ### IV. Implementation
 
-I implemented a weekly content strategy process that involved sessions to brainstorm new topics, a writing session, an editing session, and a review process to catch any issues and get feedback. My writing partner and I also crafted evergreen newsletters and documented a replicable publishing process to handle unexpected absences.
+I implemented a weekly content strategy process that involved sessions to brainstorm new topics, a writing session, an editing session, and a review process to catch any issues and get feedback.
+
+My writing partner and I also crafted evergreen newsletters and documented a [replicable publishing process](/newsletter_publication_process) to handle unexpected absences.
