@@ -79,9 +79,71 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 .pagination li a.disabled { color: #cccccc; }
 
 .search-input { border-color: #cccccc; }
+.entry:hover {
+  background-color: #f8f8f8;
+}
+.entry-title {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
 
 /* ========================================================================== Page ========================================================================== */
 .page-previous, .page-next { color: #000; }
+.scenario-container-left {
+  border: 1px solid darkgrey;
+  border-radius: 4px;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: auto;
+  grid-template-areas:
+  "header header"
+  "image content";
+  height: auto;
+  margin-bottom: 24px;
+  padding: 12px;
+}
+.scenario-container-right {
+  border: 1px solid darkgrey;
+  border-radius: 4px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas:
+  "header header"
+  "content image";
+  height: auto;
+  margin-bottom: 24px;
+  padding: 12px;
+}
+
+.scenario-image { grid-area: image; padding: 0 24px; }
+.phone-screen { min-width: 320px; max-width: 320px; }
+.scenario-details { grid-area: content; }
+.scenario-header {
+  grid-area: header;
+}
+
+@media (max-width: 760px) {
+  .scenario-container-right, .scenario-container-left {
+    border: none;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "header"
+      "image"
+      "content";
+      background-color: #f8f8f8;
+  }
+  .scenario-header {
+    grid-area: header;
+    max-width: 340px;
+  }
+  .scenario-image {
+    grid-area: image;
+    padding: 0;
+  }
+}
+.solution { background-color: yellow; }
 
 /* ========================================================================== Entries (Posts, collection documents, etc.) ========================================================================== */
 .entry a:hover { color: #34374C; }
