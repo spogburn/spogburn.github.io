@@ -26,13 +26,6 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
 
   **Challenge:** Write a message from the airline app notifying them of the cancellation and what they need to do next.
 
-  <h3>Process</h3>
-  I imagined a scenario where the airline automatically rebooks the passenger, but the app doesn't support hotel booking information since that would be external to the airline.
-
-  I tried to empathize with the person missing the flight, and understand how they might feel and respond to some of that in the text. I wanted to convey sympathy while also offering a clear explanation of what actions are available to the passenger.
-
-  I also considered that the passenger might be concerned that the new itinerary didn't meet their needs, but I believe that can be addressed in the itinerary page flow, not on this page.
-
   <h3>Constraints</h3>
 
   **Headline:** 45 characters
@@ -40,6 +33,14 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
   **Body:** 175 characters
 
   **Button(s):** 25 characters
+
+  <h3>Process</h3>
+  I imagined a scenario where the airline automatically rebooks the passenger, but the app doesn't support hotel booking information since that would be external to the airline.
+
+  I tried to empathize with the person missing the flight, and understand how they might feel and respond to some of that in the text. I wanted to convey sympathy while also offering a clear explanation of what actions are available to the passenger.
+
+  I also considered that the passenger might be concerned that the new itinerary didn't meet their needs, but I believe that can be addressed in the itinerary page flow, not on this page.
+
   </div>
 
 </div>
