@@ -12,9 +12,9 @@ The weekly newsletter averaged a 30-40% open rate with very little dropoff over 
 ## Highlights
 
 Some of my favorite newsletters to date:
-- [Avoiding Tutorial Hell](https://www.getrevue.co/profile/radial/issues/avoiding-tutorial-hell-974804)
-- [Solving Problems](https://www.getrevue.co/profile/radial/issues/solving-problems-740112)
-- [The Comfort of Consistency](https://www.getrevue.co/profile/radial/issues/the-comfort-of-consistency-571600)
+- [I'm Not a Nerd](https://www.getrevue.co/profile/radial/issues/i-m-not-a-nerd-1041207)
+- [A Swim or Swim Approach](https://www.getrevue.co/profile/radial/issues/a-swim-or-swim-approach-1017677)
+- [Workmanship](https://www.getrevue.co/profile/radial/issues/workmanship-873043)
 
 ## Users
 - Potential clients curious about how the company works.
