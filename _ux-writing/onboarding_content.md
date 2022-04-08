@@ -2,7 +2,7 @@
 title: "Onboarding Content"
 ---
 
-## Problem statement
+## Improve landing page
 The Handshake app's landing page copy needed to be streamlined for a clearer user experience.
 
 ## Users

@@ -2,8 +2,8 @@
 title: "Voice and Vocabulary"
 ---
 
-## Problem statement
-The Handshake app needed standardized terms and consistent vocabulary so as not to confuse users.
+## Develop consistent vocabulary
+The Handshake app needed standardized terms and consistent word usage so as not to confuse users.
 
 ## Users
 - Freelancers
