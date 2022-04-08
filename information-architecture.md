@@ -1,7 +1,7 @@
 ---
 title: "Colorado HS MTB League"
 ---
-# Case Study: Information Architecture
+# Information Architecture Improvements
 
 ## Problem statement
 Coaches, parents and riders were having a hard time finding the information they needed on the Colorado HS MTB League website

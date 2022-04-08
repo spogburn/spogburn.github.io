@@ -1,7 +1,7 @@
 ---
 title: "Content Strategy"
 ---
-# Developing a Company Voice and Style
+# Developing a Company Newsletter Voice and Style
 
 ## Problem statement
 A company I worked for wanted to start a weekly email newsletter to engage clients and customers. Together with invested stakeholders, I developed the content strategy and initially created much of the content for the newsletter.
