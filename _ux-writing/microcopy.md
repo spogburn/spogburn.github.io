@@ -15,11 +15,10 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
 <h2 class="scenario-header">
   Scenario: A traveler is in an airport waiting for the last leg of a flight home when their flight gets abruptly canceled due to bad weather.
 </h2>
-  <!-- {::options parse_block_html="true" /} -->
 
   <div class="scenario-image">
+
   <img src='/images/microcopy/Cancelled_Flight.png' alt='Cancelled Flight Alert Screen' class="phone-screen">
-    <!-- ![Cancelled Flight Alert Screen]({{ '/images/microcopy/Cancelled_Flight.png' | absolute_url }}){: .phone-screen} -->
 
   </div>
 
@@ -48,15 +47,16 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
 <div class="scenario-container-right">
 
 <h2 class="scenario-header">Scenario: An elderly user is doing a Google search to find an easy way to buy contact lenses online.</h2>
+
   <div class="scenario-image">
   ![Contact Lens Subscription Search Screen]({{ '/images/microcopy/Contact_Lens_Search.png' | absolute_url }}){: .phone-screen}
   </div>
+
   <div class="scenario-details">
 
   **Challenge:** Write a message from the airline app notifying them of the cancellation and what they need to do next.
 
   <h3>Constraints</h3>
-
 
   **Title:** 60 characters
 
@@ -84,7 +84,6 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
   - {:.solution} Works with Medicare and most insurance. Offers a wide range of name-brand lenses. Quick signup process and 24-hour customer service. Secure payment options.
 
   </div>
-
 </div>
 
 <div class="scenario-container-left">
@@ -147,5 +146,4 @@ I completed each challenge in under 10 minutes. I then did a basic layout to dem
 
   The character constraints were tight and it was hard to not try and give the user an option to learn more. Ultimately I decided to make the headline very clear about what was currently happening and known, and the body discuss the potential future issues. This seemed to be the best way to architect the information, leading with the present known danger, and placing changing information lower down.
   </div>
-
 </div>
