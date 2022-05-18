@@ -4,7 +4,7 @@
 
 layout: page
 ---
-![SPO]({{ '/images/SPO2021_small.jpeg' | absolute_url }}){: .align-left .author-avatar}
+![SPO]({{ '/images/spo_transparent.png' | absolute_url }}){: .align-left}
 Hi! I'm Stephanie. I love people, technology, and words.
 
 I can take your jargon and insider knowledge and make it into a compelling and understandable story. I've done this for climate scientists, farmers, software developers and doctors.

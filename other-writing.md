@@ -2,6 +2,8 @@
 title: Other Writing
 ---
 
+![SPO]({{ '/images/spo_radio.png' | absolute_url }}){: .align-left}
+
 Prior to working in tech, I spent 10 years as a journalist at a variety of publications, primarily covering science and the environment.
 
 I love a good story, and have managed to cover topics as wide-ranging as a sport called [skijoring](http://hiddencolorado.kunc.org/skijoring/) (it's like waterskiing on snow where the boat is actually a horse) to a now-defunct gear company that [mailed people sew-your-own sleeping bag kits](https://www.kunc.org/business/2015-12-29/frostline-kits-may-be-history-but-the-diy-gear-is-still-beloved-in-colorado).
@@ -13,6 +15,8 @@ I love a good story, and have managed to cover topics as wide-ranging as a sport
 [One Way To Ease Dementia? Try Bringing Nature Into The Nursing Home](https://www.kunc.org/health/2015-12-02/one-way-to-ease-dementia-try-bringing-nature-into-the-nursing-home)
 
 [How abandoned mines are killing creeks across Colorado](https://whyy.org/segments/how-abandoned-mines-are-killing-creeks-across-colorado/)
+
+<br/>
 
 ## Stuff I've loved writing
 
