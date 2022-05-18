@@ -7,10 +7,8 @@ layout: page
 ![SPO]({{ '/images/SPO2021_small.jpeg' | absolute_url }}){: .align-left .author-avatar}
 Hi! I'm Stephanie. I love people, technology, and words.
 
-Whether I'm asking mountain bikers how they learn about upcoming races or working to improve a company's onboarding flow, my goal is to help people use technology in a way that works for them.
+I can take your jargon and insider knowledge and make it into a compelling and understandable story. I've done this for climate scientists, farmers, software developers and doctors.
 
-I love doing this through UX writing and crafting the style and substance of the words we all see when using an application.
+Got a website or app with inconsistent terms and confusing user journeys? I'll help you structure your information architecture, understand your users needs, and iterate towards a delightful experience.
 
-My second passion is conducting user research -- listening to people and relying on their experiences, thoughts and desires to make applications that meet their needs.
-
-Download my <a href="/images/OgburnResumeContentStrategy.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!
+Download my <a href="/images/OgburnResume.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!

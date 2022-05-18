@@ -1,12 +1,6 @@
 - title: Home
   url: /index
-- title: Information Architecture
-  url: /information-architecture
-- title: Content Strategy
-  url: /content-strategy
-- title: UX Writing
-  url: /ux-writing/
-- title: UX Research
-  url: /ux-research
-- title: Science Writing
-  url: /science-writing
+- title: Portfolio
+  url: /portfolio
+- title: Other Writing
+  url: /other-writing

@@ -79,9 +79,9 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 .pagination li a.disabled { color: #cccccc; }
 
 .search-input { border-color: #cccccc; }
-.entry:hover {
+/* .entry:hover {
   background-color: #f8f8f8;
-}
+} */
 .entry-title {
   text-decoration: underline;
   text-underline-offset: 2px;
@@ -89,6 +89,12 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 
 /* ========================================================================== Page ========================================================================== */
 .page-previous, .page-next { color: #000; }
+
+.portfolio-container {
+  padding: 24px;
+  margin-bottom: 24px;
+  background-color: #f8f8f8;
+}
 .scenario-container-left {
   border: 1px solid darkgrey;
   border-radius: 4px;
@@ -146,7 +152,9 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 .solution { background-color: yellow; }
 
 /* ========================================================================== Entries (Posts, collection documents, etc.) ========================================================================== */
-.entry a:hover { color: #34374C; }
+/* .entries-grid .entry:hover { border: 3px solid yellow; } */
+/* .entries-grid .entry { padding: 12px; } */
+.entries-grid .entry a:hover { background-color:  yellow;}
 
 /* ========================================================================== Tables ========================================================================== */
 th, td { border-bottom-color: #cccccc; }

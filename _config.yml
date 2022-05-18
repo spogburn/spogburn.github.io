@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
+# his config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -16,7 +16,7 @@
 title: Stephanie Paige Ogburn
 email: stephanie.ogburn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  User Research, UX Writing, Content Strategy.
+  UX Writing, Content Strategy, UX Research.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://stephanieogburn.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  spogburn
@@ -32,9 +32,9 @@ plugins:
 
 # Collections
 collections:
-  ux-writing:
+  portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/:name
 
 # Styling
 google_fonts:
@@ -51,10 +51,10 @@ defaults:
       type: posts
     values:
       layout: post
-  # Microcopy defaults
+  # Portfolio defaults
   - scope:
-      path: "_ux-writing"
-      type: ux-writing
+      path: "_portfolio"
+      type: portfolio
     values:
       layout: page
 
