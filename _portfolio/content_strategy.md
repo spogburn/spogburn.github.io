@@ -5,7 +5,7 @@ excerpt: "From information architecture to voice and tone"
 {::options parse_block_html="true" /}
 <div class="portfolio-container">
 
-# Problem
+## Problem
 
 People using the Colorado High School Mountain Bike League website had a hard time finding the information they needed.
 
@@ -60,7 +60,10 @@ Based on card sort and survey results, we made the following recommendations:
 </div>
 
 <div class="portfolio-container">
-## An agency needed a newsletter refresh. They lacked a content strategy and a consistent publication approach.
+
+## Problem
+
+An agency needed a newsletter refresh. They lacked a content strategy and a consistent publication approach.
 
 ## Process
 
