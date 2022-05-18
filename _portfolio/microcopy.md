@@ -2,7 +2,7 @@
 title: "Microcopy"
 excerpt: "A series of microcopy problems and solutions to demonstrate my approach."
 ---
-# Problem
+# Quick Thinking
 The Daily UX Writing Challenge sends UX writers a daily prompt with a scenario and word counts. The goal is to complete the challenge in 10 minutes or less.
 
 I completed each challenge in under 10 minutes. I then did a basic layout to demonstrate what the content would like like on a mobile screen. Here are some samples from the challenge.

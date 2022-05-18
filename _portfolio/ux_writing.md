@@ -2,7 +2,8 @@
 title: "UX Writing"
 excerpt: "Consistent and clear onboarding and project setup"
 ---
-
+{::options parse_block_html="true" /}
+<div class="portfolio-container">
 # Problem
 The Handshake app needed clear and consistent flows for users setting up projects.
 
@@ -73,3 +74,4 @@ A styleguide for terms helps the app use consistent language throughout for its 
 - **Invite** (noun) - Do not use invite as a noun, please refer to Invitation as the noun form. Users can Invite another user to share a project. Once this happens, the result is an Invitation. Users can have pending Invitations, decline Invitations, and accept Invitations. Using the same term as a noun and a verb can confuse users.
 
 *_This word has multiple meanings in English so in translation we will need to be mindful of this._
+</div>
