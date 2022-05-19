@@ -11,4 +11,4 @@ I can take your jargon and insider knowledge and make it into a compelling and u
 
 Got a website or app with inconsistent terms and confusing user journeys? I'll help you structure your information architecture, understand your users' needs, and iterate towards a delightful experience.
 
-Download my <a href="/images/OgburnResume.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!
+Download my <a href="/images/OgburnResumeUXWriting.pdf" target="_blank">resume</a> and let's connect on <a href="https://www.linkedin.com/in/spogburn/" target="_blank">LinkedIn</a>!

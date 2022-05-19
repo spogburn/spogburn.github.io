@@ -16,12 +16,6 @@ I love a good story, and have managed to cover topics as wide-ranging as a sport
 
 [A Visit From the Christmas Squirrel](https://www.lastwordonnothing.com/2015/02/20/a-visit-from-the-christmas-squirrel/)
 
-## Long form (but never boring)
-
-[Great Old Broads for Wilderness laugh and learn](https://www.hcn.org/issues/45.1/great-old-broads-for-wilderness-laugh-and-learn)
-
-[Cattlemen struggle against giant meatpackers and economic squeezes](https://www.hcn.org/issues/43.5/cattlemen-struggle-against-giant-meatpackers-and-economic-squeezes)
-
 ## NPR, etc.
 
 [The Comeback of the Endangered Colorado Orange, An Apple](https://www.npr.org/sections/thesalt/2014/09/10/347386837/colorado-orange-helps-seed-states-new-fruit-economy)
@@ -29,6 +23,12 @@ I love a good story, and have managed to cover topics as wide-ranging as a sport
 [One Way To Ease Dementia? Try Bringing Nature Into The Nursing Home](https://www.kunc.org/health/2015-12-02/one-way-to-ease-dementia-try-bringing-nature-into-the-nursing-home)
 
 [How abandoned mines are killing creeks across Colorado](https://whyy.org/segments/how-abandoned-mines-are-killing-creeks-across-colorado/)
+
+## Long form (but never boring)
+
+[Great Old Broads for Wilderness laugh and learn](https://www.hcn.org/issues/45.1/great-old-broads-for-wilderness-laugh-and-learn)
+
+[Cattlemen struggle against giant meatpackers and economic squeezes](https://www.hcn.org/issues/43.5/cattlemen-struggle-against-giant-meatpackers-and-economic-squeezes)
 
 ## Nerd alert (science writing)
 
