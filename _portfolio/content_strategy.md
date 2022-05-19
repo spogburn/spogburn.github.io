@@ -21,10 +21,14 @@ After:
 
 ## Process
 
-### Hypothesis development
-I conducted an initial interview with the League's director and website designer. Through this we determined the primary users of the site were coaches, parents and riders. The director and designer believed the primary issue for users was finding information they needed to successfully participate in the league.
+### Role
 
-Other team members conducted preliminary structured interviews with users to learn more about how they typically used the site and what their main goals were when using the site.
+I was one member of a team of four UX researchers. I conducted preliminary interviews with the product owner, a content audit of the site, and ran and analyzed the card sort activity.
+
+### Hypothesis development
+We conducted an initial interview with the League's director and web designer. Through this we determined the primary users of the site were coaches, parents and riders. The director and designer believed the primary issue for users was finding information they needed to successfully participate in the league.
+
+Other team members conducted structured interviews with users to learn more about how they typically used the site and what their main goals were when using the site.
 
 These interviews confirmed that users were having difficulty accessing information, that the site was challenging to use on mobile, and that users most often were looking for information related to upcoming races.
 
@@ -67,26 +71,27 @@ An agency needed a newsletter refresh. They lacked a content strategy and a cons
 
 ## Process
 
+## Role
+
+I conducted the research and developed and implemented strategy for this newsletter.
+
 ### Persona development
 
-  First, I developed a persona for the agency. This discovery process helped establish how the newsletter would sound and what topics were important for the newsletter to cover.
+First, I developed a persona for the agency. This discovery process helped establish how the newsletter would sound and what topics were important for the newsletter to cover.
 
 **Agency Persona**
   ![Agency Persona]({{ '/images/agency_persona.png' | absolute_url }}){: .align-center}
 <br/>
 
 ### Competitive analysis
-  I analyzed several existing email newsletters from companies in similar spaces.
+I analyzed several existing email newsletters from companies in similar spaces. We liked other newsletters that had:
 
-  I used this analysis to develop a structure for the email newsletter. We decided on
-
-  - A text-based structure, like a letter that arrives in your inbox.
-  - Regular links in topical areas relevant to the agency’s persona.
-  - A regular self-improvement section to nod to the need for mindfulness in business and life.
+- A text-based structure, like a letter that arrives in your inbox.
+ - Regular links in topical areas relevant to the agency’s personality or mission.
 
 ### Style guide
 
-  After conducting research, the strategy we decided on was to have the newsletter feel like a small weekly conversation from the agency that subscribers are “in” on. We also wanted subscribers to know that the agency was interested in their growth as well as its own. With input from other stakeholders, I created the following style guide:
+We wanted the newsletter to feel like a weekly conversation from the agency that subscribers are “in” on. We also wanted subscribers to know that the agency was interested in their growth as well as its own, so we wated to share ways to improve their companies and themselves. With input from other stakeholders, I created the following style guide:
 
   - Written in a letter-type format, with a salutation of “Hi Friends” or something similar.
   - Signed by the author for that week.
@@ -96,10 +101,12 @@ An agency needed a newsletter refresh. They lacked a content strategy and a cons
   - Often discusses Hard Things or situations that helped the agency grow.
   - Partners with a local business development consultant to include weekly journaling prompts, encouraging reflection and growth.
 
-### Implementation
-  I implemented a weekly content strategy process that involved sessions to brainstorm new topics, a writing session, an editing session, and a review process to catch any issues and get feedback.
 
-  My writing partner and I also crafted evergreen newsletters and documented a [replicable publishing process](/newsletter_publication_process) to handle unexpected absences.
+### Implementation
+I implemented a weekly content strategy process that involved sessions to brainstorm new topics, a writing session, an editing session, and a review process to catch any issues and get feedback.
+
+ My writing partner and I also crafted evergreen newsletters and documented a [replicable publishing process](/newsletter_publication_process) to handle unexpected absences.
+
 </div>
 
 
