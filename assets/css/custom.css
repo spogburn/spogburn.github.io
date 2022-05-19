@@ -158,6 +158,13 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 }
 .solution { background-color: yellow; }
 
+.image-container {
+  position: relative;
+  height: auto;
+  overflow: hidden;
+  width: auto;
+}
+
 /* ========================================================================== Entries (Posts, collection documents, etc.) ========================================================================== */
 /* .entries-grid .entry:hover { border: 3px solid yellow; } */
 /* .entries-grid .entry { padding: 12px; } */
