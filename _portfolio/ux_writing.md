@@ -14,7 +14,7 @@ Handshake is a project management app that allows freelancers to set up projects
 I developed voice, tone, and vocabularly by conducting research about the terms and tone used by freelancers and business owners, and used existing personas about the targeted user groups.
 
 ### Role
-I received basic screens from a designer, and updated the wireframe copy to follow the style guide and to add clarity in user journeys in the app.
+I received basic screens from a designer, and updated the wireframe copy to follow the style guide and to add clarity in user journeys in the app. This was a student project for my course in UX Writing Fundamentals.
 
 ### User definition
 - Freelancers
@@ -51,7 +51,7 @@ Consistent terms help users stay focused on core tasks and reduce confusion. I o
 - **Business owner** (noun) - The person who hired the freelancer and has a project they are paying for work on.
 - **Freelancer** (noun) - Used to refer to the person performant the project work.
 - **Invite** (verb) - Use as a verb for when a user invites a business owner. Use "Invitation" as the noun form, since using the same word as a noun and a verb can confuse users.
-- **Record** (verb) - The action of saving a time entry on a project. “Record time”
+- **Record** (verb) - The action of saving a time entry on a project. “Record time.”
 
 **Terms not to use**
 - **1099 worker, contractor, consultant, employee** (noun) - Always refer to the person doing the work as the "freelancer".
@@ -64,7 +64,7 @@ Consistent terms help users stay focused on core tasks and reduce confusion. I o
 
 *_This word has multiple meanings in English so in translation we will need to be mindful of this._
 
-## Freelancer project setup screens
+### Freelancer project setup screens
 
 ![Project Setup Screen Iterations]({{ '/images/ux_writing/projectlaunchscreen.png' | absolute_url }}){: .align-center}
 
