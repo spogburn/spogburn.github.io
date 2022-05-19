@@ -4,17 +4,11 @@ excerpt: "Consistent and clear onboarding and project setup for a project manage
 ---
 {::options parse_block_html="true" /}
 <div class="portfolio-container">
+
 # Problem
 The Handshake app needed clear and consistent flows for users setting up projects.
 
 Handshake is a project management app that allows freelancers to set up projects, collaborate with clients/business owners on project proposals, deadlines and milestones, and get paid via the app.
-
-## Users
-- Freelancers
-- Business owners hiring freelance workers
-
-## Role
-I received basic screens from a designer, conducted competitive research, updated the wireframe copy and raised questions about user journeys for follow-up work.
 
 Initial Project Creation Screen Iterations
 ![Project Setup Screen Iterations]({{ '/images/ux_writing/initialprojectcreation.png' | absolute_url }}){: .align-center}
@@ -24,9 +18,15 @@ Project Setup Screen Iterations
 ![Project Setup Screen Iterations]({{ '/images/ux_writing/setupscreenlarge.png' | absolute_url }}){: .align-center}
 <br/>
 
-
 ## Process
-I developed voice, tone, and vocabularly by conducting research about the terms, tone and terms bularly used by freelancers and business owners, along with information about the targeted user groups.
+I developed voice, tone, and vocabularly by conducting research about the terms, tone and terms used by freelancers and business owners, along with information about the targeted user groups.
+
+### Role
+I received basic screens from a designer, conducted competitive research, updated the wireframe copy and raised questions about user journeys for follow-up work
+
+### User definition
+- Freelancers
+- Business owners hiring freelance workers
 
 ### App voice
 I conducted research into user vocabulary and analyzed competitors in the space as I developed an initial voice for the app.
