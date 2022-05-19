@@ -26,12 +26,10 @@ Project Setup Screen Iterations
 
 
 ## Process
-I developed voice, tone, vocabularly and terminology selections by conducting research about the terms, tone and vocabularly used by freelancers and business owners.
-
-Further iteration would include user testing to get feedback on these terms and the tone of the app.
+I developed voice, tone, and vocabularly by conducting research about the terms, tone and terms bularly used by freelancers and business owners, along with information about the targeted user groups.
 
 ### App voice
-After conducting research into user vocabulary, I used my sense of the app's primary features to develop a voice for the app.
+I conducted research into user vocabulary and analyzed competitors in the space as I developed an initial voice for the app.
 
 #### Words that describe the app's voice:
 
