@@ -10,26 +10,18 @@ The Handshake app needed clear and consistent flows for users setting up project
 
 Handshake is a project management app that allows freelancers to set up projects, collaborate with clients/business owners on project proposals, deadlines and milestones, and get paid via the app.
 
-Initial Project Creation Screen Iterations
-![Project Setup Screen Iterations]({{ '/images/ux_writing/initialprojectcreation.png' | absolute_url }}){: .align-center}
-
-Project Setup Screen Iterations
-
-![Project Setup Screen Iterations]({{ '/images/ux_writing/setupscreenlarge.png' | absolute_url }}){: .align-center}
-<br/>
-
 ## Process
-I developed voice, tone, and vocabularly by conducting research about the terms, tone and terms used by freelancers and business owners, along with information about the targeted user groups.
+I developed voice, tone, and vocabularly by conducting research about the terms and tone used by freelancers and business owners, and used existing personas about the targeted user groups.
 
 ### Role
-I received basic screens from a designer, conducted competitive research, updated the wireframe copy and raised questions about user journeys for follow-up work
+I received basic screens from a designer, and updated the wireframe copy to follow the style guide and to add clarity in user journeys in the app.
 
 ### User definition
 - Freelancers
 - Business owners hiring freelance workers
 
 ### App voice
-I conducted research into user vocabulary and analyzed competitors in the space as I developed an initial voice for the app.
+To develop a vocabulary, voice and tone, I conducted research into user vocabulary and analyzed competitors in the space.
 
 #### Words that describe the app's voice:
 
@@ -52,24 +44,32 @@ When talking about payments and money, we should be conversational and clear, wi
 
 ### Vocabulary development
 
-A styleguide for terms helps the app use consistent language throughout for its set of features. I outlined primary terms and rationales behind them.
+Consistent terms help users stay focused on core tasks and reduce confusion. I outlined primary terms and rationales behind them.
 
 **Terms to Use**
-- **Budget, noun.** The sum of hours, payment and rate agreed upon for the project.
-- **Business owner, noun.** The person who hired the freelancer and has a project they are paying for work on.
-- **Freelancer, noun.** Used to refer to the person performant the project work.
-- **Invite, verb.** Use as a verb for when a user invites a business owner. Use "Invitation" as the noun form, since using the same word as a noun and a verb can confuse users.
-- **Record*, verb.** The action of saving a time entry on a project. “Record time”
+- **Budget** (noun) - The sum of hours, payment and rate agreed upon for the project.
+- **Business owner** (noun) - The person who hired the freelancer and has a project they are paying for work on.
+- **Freelancer** (noun) - Used to refer to the person performant the project work.
+- **Invite** (verb) - Use as a verb for when a user invites a business owner. Use "Invitation" as the noun form, since using the same word as a noun and a verb can confuse users.
+- **Record** (verb) - The action of saving a time entry on a project. “Record time”
 
 **Terms not to use**
-
-- **1099 worker, contractor, consultant, employee, noun.** Always refer to the person doing the work as the "freelancer".
-- **Cash, money, noun.** Use "payment" to refer to how finances are changing hands.
-- **Client, noun.** Use "business owner." Client is too formal for our conversational voice.
-- **Job, noun.** Use "project" to refer to the overall set of work. Project is more inclusive of both parties whereas job is more one-sided.
-- **Log** - Do not use this verb to refer to time tracking. We use “record” instead. Also do not use it in a noun form. Users record time and have a project timesheet. (They do not log time nor do they have a time log).
+- **1099 worker, contractor, consultant, employee** (noun) - Always refer to the person doing the work as the "freelancer".
+- **Cash, money** (noun) - Use "payment" to refer to how finances are changing hands.
+- **Client** (noun) - Use "business owner." Client is too formal for our conversational voice.
+- **Job** (noun) - Use "project" to refer to the overall set of work. Project is more inclusive of both parties whereas job is more one-sided.
+- **Log** (verb/noun) - Do not use this verb to refer to time tracking. We use “record” instead. Also do not use it in a noun form. Users record time and have a project timesheet. (They do not log time nor do they have a time log).
 - **Invoice** (verb) - Do not use Invoice as a verb. Use it as a noun to refer to a document outlining time worked and amount owed based on rate. Using the same term as a noun and a verb can confuse users.
 - **Invite** (noun) - Do not use invite as a noun, please refer to Invitation as the noun form. Users can Invite another user to share a project. Once this happens, the result is an Invitation. Users can have pending Invitations, decline Invitations, and accept Invitations. Using the same term as a noun and a verb can confuse users.
 
 *_This word has multiple meanings in English so in translation we will need to be mindful of this._
+
+## Freelancer project setup screens
+
+![Project Setup Screen Iterations]({{ '/images/ux_writing/projectlaunchscreen.png' | absolute_url }}){: .align-center}
+
+![Project Setup Screen Iterations]({{ '/images/ux_writing/originalfreelancersetup.png' | absolute_url }}){: .align-center}
+
+![Project Setup Screen Iterations]({{ '/images/ux_writing/updatedfreelancersetup.png' | absolute_url }}){: .align-center}
+<br/>
 </div>
