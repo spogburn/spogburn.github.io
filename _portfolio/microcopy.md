@@ -1,6 +1,6 @@
 ---
 title: "Microcopy"
-excerpt: "A series of microcopy problems and solutions to demonstrate my approach"
+excerpt: "A series of microcopy problems and solutions to demonstrate my approach."
 ---
 # Quick Thinking
 The Daily UX Writing Challenge sends UX writers a daily prompt with a scenario and word counts. The goal is to complete the challenge in 10 minutes or less.

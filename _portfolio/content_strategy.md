@@ -1,6 +1,6 @@
 ---
 title: "Content Strategy"
-excerpt: "From information architecture to voice and tone"
+excerpt: "The big picture stuff. Information architecture and other strategery."
 ---
 {::options parse_block_html="true" /}
 <div class="portfolio-container">

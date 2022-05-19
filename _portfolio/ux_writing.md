@@ -1,6 +1,6 @@
 ---
 title: "UX Writing"
-excerpt: "Consistent and clear onboarding and project setup"
+excerpt: "Consistent and clear onboarding and project setup for a project management app."
 ---
 {::options parse_block_html="true" /}
 <div class="portfolio-container">

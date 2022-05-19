@@ -161,6 +161,7 @@ blockquote { background-color: #ebebed; border-left-color: #34374C; }
 /* ========================================================================== Entries (Posts, collection documents, etc.) ========================================================================== */
 /* .entries-grid .entry:hover { border: 3px solid yellow; } */
 /* .entries-grid .entry { padding: 12px; } */
+.entries-grid .entry { padding: 24px;}
 .entries-grid .entry a:hover { background-color:  yellow;}
 
 /* ========================================================================== Tables ========================================================================== */
