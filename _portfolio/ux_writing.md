@@ -61,7 +61,7 @@ A styleguide for terms helps the app use consistent language throughout for its 
 - **Invite, verb.** Use as a verb for when a user invites a business owner. Use "Invitation" as the noun form, since using the same word as a noun and a verb can confuse users.
 - **Record*, verb.** The action of saving a time entry on a project. “Record time”
 
-**Terms not to Use**
+**Terms not to use**
 
 - **1099 worker, contractor, consultant, employee, noun.** Always refer to the person doing the work as the "freelancer".
 - **Cash, money, noun.** Use "payment" to refer to how finances are changing hands.
