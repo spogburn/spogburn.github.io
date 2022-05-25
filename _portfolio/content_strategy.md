@@ -95,7 +95,7 @@ We wanted the newsletter to feel like a weekly conversation from the agency that
 
   - Written in a letter-type format, with a salutation of “Hi Friends” or something similar.
   - Signed by the author for that week.
-  -Often includes an anecdote from a workday at the agency, or a story about something that happened at the agency. This anecdote often broadens out to discuss agency culture, management culture, or tech culture.
+  - Often includes an anecdote from a workday at the agency, or a story about something that happened at the agency. This anecdote often broadens out to discuss agency culture, management culture, or tech culture.
   - Displays the humanity and fallibility of the agency.
   - Is positive without bragging.
   - Often discusses Hard Things or situations that helped the agency grow.
