@@ -1,6 +1,7 @@
 ---
 title: "UX Writing"
 excerpt: "Using UI content to encourage, empower, and nudge."
+permalink: /ux-writing/
 ---
 {::options parse_block_html="true" /}
 <div class="portfolio-container">

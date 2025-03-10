@@ -1,6 +1,7 @@
 ---
 title: "Content Strategy"
 excerpt: "Crafting voice and tone, cadence, and style."
+permalink: /content-strategy/
 ---
 {::options parse_block_html="true" /}
 

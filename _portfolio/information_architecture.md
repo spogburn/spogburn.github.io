@@ -1,6 +1,7 @@
 ---
-title: "Information architecture"
+title: "Information Architecture"
 excerpt: "Creating models, using heirarchy, and setting up patterns."
+permalink: /information-architecture/
 ---
 
 
