@@ -1,75 +1,46 @@
 ---
 title: "UX Writing"
-excerpt: "Consistent and clear onboarding and project setup for a project management app."
+excerpt: "Using UI content to encourage, empower, and nudge."
 ---
 {::options parse_block_html="true" /}
 <div class="portfolio-container">
 
-# Problem
-The Handshake app needed clear and consistent flows for users setting up projects.
 
-Handshake is a project management app that allows freelancers to set up projects, collaborate with clients/business owners on project proposals, deadlines and milestones, and get paid via the app.
+# Problem
+Every year, over 6 million US job seekers earn an alternative education certification. Yet only 66,000 job seekers were listing alternative certifications on their Indeed profiles.
+
+Indeed needed to encourge job seekers with those skills to add them to their profiles, so employers could find them.
+
+## Impact
+After the updates based on this project launched:
+- There was a 7% increase in job seekers adding non-traditional education to their profiles
+- There was a 9% increase in form completion for job seekers with no college degree.
 
 ## Process
-I developed voice, tone, and vocabularly by conducting research about the terms and tone used by freelancers and business owners, and used existing personas about the targeted user groups.
+I designed content updates to existing form title, label and helper text and collaborated on testing those updates to learn if content changes alone could encourage users to add alternative education to their profiles.
 
 ### Role
-I received basic screens from a designer, and updated the wireframe copy to follow the style guide and to add clarity in user journeys in the app. This was a student project for my course in UX Writing Fundamentals.
+I collaborated with UX research to understand if we might repurpose our existing form fields to encourage job seekers to provide alternative education information, with taxonomists to understand the impact of proposed changes to an autocompleting form field, and with UX design and product to propose more extensive design solutions.
 
 ### User definition
-- Freelancers
-- Business owners hiring freelance workers
+Job seekers adding both traditional and alternative education to their Indeed profiles.
 
-### App voice
-To develop a vocabulary, voice and tone, I conducted research into user vocabulary and analyzed competitors in the space.
+## A/B tests
 
-#### Words that describe the app's voice:
+### Initial screen
+I collaborated with research to analyze if our current education form fields could be repurposed to encourage job seekers to provide this information.
 
-- Trustworthy and clear, but not stuffy.
-[Example: We're connecting you with our partners at Stripe to securely connect your bank account.]
-- Conversational and supportive, but not slangy.
-[Example: Invite a business owner so you can start work!]
-- Encouraging and enthusiastic, but not overly so.
-[Example: Nice work! You achieved your first milestone.]
+![Original education form]({{ '/images/ux_writing/initial_version_education_form.png' | absolute_url }}){: .align-center}
 
-#### Special notes on tone:
+### Tested screens
+Items with a blue outline were new content for the test.
 
-**Error messages**
+![A/B test of education form updates]({{ '/images/ux_writing/a_b_test_education_form.png' | absolute_url }}){: .align-center}
 
-Should be factual and give users a clear option for a remedy, if possible. When a user has encountered an application error we do not want to be enthusiastic, we want to be a resource to help them fix the error.
+### Final version
+The final version used much of what was tested in the B version. However, due to the difficulty in updating the backend for "Level of education" due to our taxonomy, that field was left unchanged.
 
-**Financial discussions**
+![Final updated version of education form]({{ '/images/ux_writing/final_version_education_form.png' | absolute_url }}){: .align-center}
 
-When talking about payments and money, we should be conversational and clear, with less emotion than in other parts of the app. Many people are sensitive about money, and we don't want to impose a set of emotions on them in this area.
-
-### Vocabulary development
-
-Consistent terms help users stay focused on core tasks and reduce confusion. I outlined primary terms and rationales behind them.
-
-**Terms to Use**
-- **Budget** (noun) - The sum of hours, payment and rate agreed upon for the project.
-- **Business owner** (noun) - The person who hired the freelancer and has a project they are paying for work on.
-- **Freelancer** (noun) - Used to refer to the person performant the project work.
-- **Invite** (verb) - Use as a verb for when a user invites a business owner. Use "Invitation" as the noun form, since using the same word as a noun and a verb can confuse users.
-- **Record** (verb) - The action of saving a time entry on a project. “Record time.”
-
-**Terms not to use**
-- **1099 worker, contractor, consultant, employee** (noun) - Always refer to the person doing the work as the "freelancer".
-- **Cash, money** (noun) - Use "payment" to refer to how finances are changing hands.
-- **Client** (noun) - Use "business owner." Client is too formal for our conversational voice.
-- **Job** (noun) - Use "project" to refer to the overall set of work. Project is more inclusive of both parties whereas job is more one-sided.
-- **Log** (verb/noun) - Do not use this verb to refer to time tracking. We use “record” instead. Also do not use it in a noun form. Users record time and have a project timesheet. (They do not log time nor do they have a time log).
-- **Invoice** (verb) - Do not use Invoice as a verb. Use it as a noun to refer to a document outlining time worked and amount owed based on rate. Using the same term as a noun and a verb can confuse users.
-- **Invite** (noun) - Do not use invite as a noun, please refer to Invitation as the noun form. Users can Invite another user to share a project. Once this happens, the result is an Invitation. Users can have pending Invitations, decline Invitations, and accept Invitations. Using the same term as a noun and a verb can confuse users.
-
-*_This word has multiple meanings in English so in translation we will need to be mindful of this._
-
-### Freelancer project setup screens
-
-![Project Setup Screen Iterations]({{ '/images/ux_writing/projectlaunchscreen.png' | absolute_url }}){: .align-center}
-
-![Project Setup Screen Iterations]({{ '/images/ux_writing/originalfreelancersetup.png' | absolute_url }}){: .align-center}
-
-![Project Setup Screen Iterations]({{ '/images/ux_writing/updatedfreelancersetup.png' | absolute_url }}){: .align-center}
 <br/>
 </div>
