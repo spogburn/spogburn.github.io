@@ -43,5 +43,9 @@ The final version used much of what was tested in the B version. However, due to
 
 ![Final updated version of education form]({{ '/images/ux_writing/final_version_education_form.png' | absolute_url }}){: .align-center}
 
+### Next steps
+
+The team is evaluating the level of effort to update the backend for the Level of education input. They are also exploring a redesign to see if we can encourage even more job seekers to add alternative education experiences to their profiles.
+
 <br/>
 </div>

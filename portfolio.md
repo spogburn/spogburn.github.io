@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: UX Work
 layout: collection
 permalink: /portfolio/
 collection: portfolio
